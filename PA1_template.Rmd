@@ -17,8 +17,6 @@ This project makes use of data from a personal activity monitoring device. This 
 
 ```{r }
 act<- read.csv("C:/Users/Betty/Documents/activity.csv")
-#act<- read.csv("activity.csv") moving file from FNHA laptop to here , it can't be run. Use above statement!
-head(act)
 ```
 
 ## Loading required packages
