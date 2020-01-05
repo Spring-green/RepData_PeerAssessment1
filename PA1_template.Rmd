@@ -16,7 +16,7 @@ This project makes use of data from a personal activity monitoring device. This 
 ## Loading and preprocessing the data
 
 ```{r reading }
-act<- read.csv("C:/Users/Betty/Documents/activity.csv")
+act<- read.csv("activity.csv")
 ```
 
 ## Loading required packages
